@@ -1,0 +1,13 @@
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp3.1\CutTheSticks.exe
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp3.1\CutTheSticks.deps.json
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp3.1\CutTheSticks.runtimeconfig.json
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp3.1\CutTheSticks.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp3.1\CutTheSticks.dll
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\bin\Debug\netcoreapp3.1\CutTheSticks.pdb
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp3.1\CutTheSticks.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp3.1\CutTheSticks.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp3.1\CutTheSticks.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp3.1\CutTheSticks.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp3.1\CutTheSticks.dll
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp3.1\CutTheSticks.pdb
+C:\Users\Ahmet\source\repos\CutTheSticks\CutTheSticks\obj\Debug\netcoreapp3.1\CutTheSticks.genruntimeconfig.cache
